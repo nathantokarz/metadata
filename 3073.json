@@ -1,0 +1,50 @@
+{
+  "name": "Koala Bot Club #3073",
+  "description": "More than just a PFP!",
+  "image": "REPLACE/3073.png",
+  "edition": 3073,
+  "date": 1662194168818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDM"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jumping Man"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Chains",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Abelhinha"
+    },
+    {
+      "trait_type": "Special",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
